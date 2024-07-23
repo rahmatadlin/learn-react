@@ -19,4 +19,4 @@ Props berguna untuk parsing dynamic data ke component
 7. Kenapa harus NextJS, great for Blog, E-commerce, Company Profile. website yang besar
 8. Kita butuh nodejs untuk install si NextJs minimal versi 16
 9. src folder semua codingan react kita
-
+10. SSR adalah mengambil data dan menampilkan konten di sisi server
